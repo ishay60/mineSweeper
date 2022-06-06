@@ -1,0 +1,5 @@
+﻿  MineSweeper.c
+G:\Other computers\ה-מחשב נייד שלי\אקדמית\אקדמית\מדמח\MineSweeper.c(108,20): warning C4013: 'DiscoverTheField' undefined; assuming extern returning int
+G:\Other computers\ה-מחשב נייד שלי\אקדמית\אקדמית\מדמח\MineSweeper.c(36,6): warning C4101: 'value': unreferenced local variable
+G:\Other computers\ה-מחשב נייד שלי\אקדמית\אקדמית\מדמח\MineSweeper.c(180,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\Other computers\ה-מחשב נייד שלי\אקדמית\אקדמית\מדמח\MineSweeper.c(243,6): error C2371: 'DiscoverTheField': redefinition; different basic types
